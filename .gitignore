@@ -1,0 +1,7 @@
+.vs
+.vscode
+./godot\-cpp
+*.obj
+demo
+.dblite
+extension_api.json
