@@ -1,7 +1,7 @@
 .vs
 .vscode
-./godot\-cpp
+./godot-cpp
 *.obj
 demo
-.dblite
+*.dblite
 extension_api.json
